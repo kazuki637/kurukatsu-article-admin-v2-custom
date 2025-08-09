@@ -1,0 +1,17 @@
+
+:root { color-scheme: light; }
+body { margin:0; background:#fafafa; }
+input, select, textarea, button {
+  font: inherit;
+  padding: 8px 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+button {
+  cursor: pointer;
+  border-color: #ccc;
+  background: white;
+}
+label { display:block; }
+label > input, label > select, label > textarea { width: 100%; margin-top: 6px; }
+table th, table td { padding: 8px; }

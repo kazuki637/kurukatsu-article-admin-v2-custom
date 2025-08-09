@@ -1,0 +1,1 @@
+{"root":["./src/firebase.ts","./src/image.ts","./src/main.tsx","./src/slug.ts","./src/types.ts","./src/ui/app.tsx","./src/ui/dashboard.tsx","./src/ui/edit.tsx","./src/ui/login.tsx","./src/ui/index.ts"],"version":"5.9.2"}
